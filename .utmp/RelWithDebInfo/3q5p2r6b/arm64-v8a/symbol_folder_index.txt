@@ -1,0 +1,1 @@
+C:\Users\USER\OneDrive - ESPRIT\Bureau\unitytp\TP_Manipulation_3D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3q5p2r6b\obj\arm64-v8a

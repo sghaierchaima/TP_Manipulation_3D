@@ -1,0 +1,26 @@
+# Dossiers Unity à ignorer
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+Build/
+Builds/
+
+# Fichiers de solution
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Fichiers lourds / binaires qu'on ne veut pas sur GitHub
+*.apk
+*.blend
